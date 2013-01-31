@@ -1,3 +1,7 @@
+#
+# Read an xml file, write a json file 
+#
+
 from xml.etree import ElementTree
 from pprint import pprint
 import json
