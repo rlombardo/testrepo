@@ -1,1 +1,2 @@
-this is the text directly created in master
+# merge conflict resolved this is the text directly created in master
+this is instead the text entered in lombardo branch. 
