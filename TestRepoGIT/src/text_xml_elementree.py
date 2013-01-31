@@ -56,9 +56,8 @@ class XmlDict(dict):
                         currentValue = self[element.tag]
                         currentValue.append(aDict)
                         self.update({element.tag: currentValue})
-                    except: #the first of its kind, an empty list must be created
-                        self.update({element.tag: [aDict]}) #aDict is written in [], i.e. it will be a list
-    
+                    except: 
+                        self.update({element.tag: [aDict]}) 
                 else:
                     self.update({element.tag: aDict})
             elif element.items():
@@ -70,10 +69,7 @@ class XmlDict(dict):
                         el_dict['value'] = text
                         
                 self.update({element.tag: el_dict})
-            # finally, if there are no child tags and no attributes, extract
-            # the text
             else:
-                #TODO: code replication ^^^^ and down here
                 if element.text:
                     text = element.text
                     text = text.strip()
@@ -83,16 +79,14 @@ class XmlDict(dict):
                     self.update({element.tag: element.text})       
 
 if __name__ == '__main__':
-    fw = open("movies.json", "w")
+    wkdir = "C:/Users/db2admin/git/TestRepoGIT/TestRepoGIT/src/"
+    outfile = "%s%s" % (wkdir, "movies.json")
+    infile = "%s%s" % (wkdir, "sample_movies.xml")
+    fw = open(outfile, "w")
     fw.write('{"movies" : [')
-    for event, elem in ElementTree.iterparse('sample_movies.xml'):
+    for event, elem in ElementTree.iterparse(infile):
         if elem.tag == "movie":
-    #        print "="*30
-    #        print elem
-    #        json_raw = "%s%s" % (XmlDict(elem), ",")
             json_raw = XmlDict(elem)
-    #        print ""
-    #        pprint(json_raw)
             fw.write(str(json_raw)+ ", ")
             elem.clear()
     fw.write(']}')
@@ -101,7 +95,7 @@ if __name__ == '__main__':
     print ""
     print "******** RESULTING FILE ***************"
     print
-    fd = open("movies.json")
+    fd = open(outfile)
     lines = fd.read()
     raw_json = eval(lines)
     pprint(raw_json)
