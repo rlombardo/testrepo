@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<movies>
+
+<movie id="771169232">
+  <title>Mr. Peabody &amp; Sherman</title>
+  <rating>Unrated</rating>
+  <releaseYear>2014</releaseYear>
+  <urls>
+    <url type="rottentomatoes">http://www.rottentomatoes.com/m/mr_peabody_and_sherman</url>
+    <url type="flixster">http://www.flixster.com/movie/mr-peabody-and-sherman</url>
+  </urls>
+  
+  <alternateIds>
+    <id type="amg">V   361799</id>
+    <id type="imdb">0864835</id>
+    
+    
+    
+    
+  </alternateIds>
+  
+  <posters>
+    <poster size="thumbnail">http://static6.flixster.com/static/images/movie.none.tmb.gif</poster>
+  
+    <poster size="profile">http://static6.flixster.com/static/images/movie.none.pro.gif</poster>
+  
+    <poster size="detailed">http://static6.flixster.com/static/images/movie.none.det.gif</poster>
+  
+    <poster size="original">http://static6.flixster.com/static/images/movie.none.det.gif</poster>
+  </posters>
+  
+  <cast>
+    <directors>
+      <director id="162655736" url="http://www.flixster.com/actor/rob-minkoff">Rob Minkoff</director>
+    </directors>
+    <actors>
+      <actor id="162654529" url="http://www.flixster.com/actor/robertdowneyjr">Robert Downey Jr.</actor>
+    </actors>
+  </cast>
+
+  <theaterReleaseDates>
+    <theaterReleaseDate country="us">2014-03-21</theaterReleaseDate>
+  </theaterReleaseDates>
+  
+  <dvdReleaseDates>
+    
+  </dvdReleaseDates>
+  
+  <criticSummary url="http://www.rottentomatoes.com/m/mr_peabody_and_sherman#contentReviews">
+    <score count="0">-1</score>
+      <freshness certified="false" rotten="false">false</freshness>
+      <consensus><![CDATA[]]></consensus>  
+  </criticSummary>
+    
+  <fanSummary url="http://www.flixster.com/movie/mr-peabody-and-sherman/reviews">
+    <score count="0" preRelease="true">94</score>
+  </fanSummary>
+
+</movie>
+
+  
+<movie id="771181360">
+  <title>The Hobbit: Part 2</title>
+  <rating>Unrated</rating>
+  <releaseYear>2013</releaseYear>
+  <urls>
+    <url type="rottentomatoes">http://www.rottentomatoes.com/m/the_hobbit_part_2</url>
+    <url type="flixster">http://www.flixster.com/movie/the-hobbit-part-2</url>
+  </urls>
+  
+  <alternateIds>
+    <id type="amg">V   427369</id>
+    <id type="imdb">1170358</id>
+    
+    
+    
+    
+  </alternateIds>
+  
+  <posters>
+    <poster size="thumbnail">http://static6.flixster.com/static/images/movie.none.tmb.gif</poster>
+  
+    <poster size="profile">http://static6.flixster.com/static/images/movie.none.pro.gif</poster>
+  
+    <poster size="detailed">http://static6.flixster.com/static/images/movie.none.det.gif</poster>
+  
+    <poster size="original">http://static6.flixster.com/static/images/movie.none.det.gif</poster>
+  </posters>
+  
+  <cast>
+    <directors></directors>
+    <actors>
+      <actor id="162652296" url="http://www.flixster.com/actor/martin-freeman">Martin Freeman</actor>
+    
+      <actor id="162653241" url="http://www.flixster.com/actor/sir-ian-mckellen">Ian McKellen</actor>
+    
+      <actor id="546952855" url="http://www.flixster.com/actor/richard-armitage">Richard Armitage</actor>
+    </actors>
+  </cast>
+
+  <theaterReleaseDates>
+    <theaterReleaseDate country="us">2013-12-31</theaterReleaseDate>
+  </theaterReleaseDates>
+  
+  <dvdReleaseDates>
+    
+  </dvdReleaseDates>
+  
+  <criticSummary url="http://www.rottentomatoes.com/m/the_hobbit_part_2#contentReviews">
+    <score count="0">-1</score>
+      <freshness certified="false" rotten="false">false</freshness>
+      <consensus><![CDATA[]]></consensus>  
+  </criticSummary>
+    
+  <fanSummary url="http://www.flixster.com/movie/the-hobbit-part-2/reviews">
+    <score count="8" preRelease="true">99</score>
+  </fanSummary>
+
+</movie>
+
+  
+<movie id="770782716">
+  <title>Austin Powers 4</title>
+  <rating>Unrated</rating>
+  <releaseYear>2013</releaseYear>
+  <urls>
+    <url type="rottentomatoes">http://www.rottentomatoes.com/m/austin-powers-4</url>
+    <url type="flixster">http://www.flixster.com/movie/austin-powers-4</url>
+  </urls>
+  
+  <alternateIds>
+    
+    <id type="imdb">1218992</id>
+    
+    
+    
+    
+  </alternateIds>
+  
+  <posters>
+    <poster size="thumbnail">http://static6.flixster.com/static/images/movie.none.tmb.gif</poster>
+  
+    <poster size="profile">http://static6.flixster.com/static/images/movie.none.pro.gif</poster>
+  
+    <poster size="detailed">http://static6.flixster.com/static/images/movie.none.det.gif</poster>
+  
+    <poster size="original">http://static6.flixster.com/static/images/movie.none.det.gif</poster>
+  </posters>
+  
+  <cast>
+    <directors>
+      <director id="162659385" url="http://www.flixster.com/actor/jay-roach">Jay Roach</director>
+    </directors>
+    <actors></actors>
+  </cast>
+
+  <theaterReleaseDates>
+    <theaterReleaseDate country="us">2013-12-31</theaterReleaseDate>
+  </theaterReleaseDates>
+  
+  <dvdReleaseDates>
+    
+  </dvdReleaseDates>
+  
+  <criticSummary url="http://www.rottentomatoes.com/m/austin-powers-4#contentReviews">
+    <score count="0">-1</score>
+      <freshness certified="false" rotten="false">false</freshness>
+      <consensus><![CDATA[]]></consensus>  
+  </criticSummary>
+    
+  <fanSummary url="http://www.flixster.com/movie/austin-powers-4/reviews">
+    <score count="87" preRelease="true">88</score>
+  </fanSummary>
+
+</movie>
+
+  
+<movie id="771224340">
+  <title>Me and My Shadow</title>
+  <rating>Unrated</rating>
+  <releaseYear>2013</releaseYear>
+  <urls>
+    <url type="rottentomatoes">http://www.rottentomatoes.com/m/me_and_my_shadow</url>
+    <url type="flixster">http://www.flixster.com/movie/me-and-my-shadow</url>
+  </urls>
+  
+  <alternateIds>
+    
+    
+    
+    
+    
+    
+  </alternateIds>
+  
+  <posters>
+    <poster size="thumbnail">http://static6.flixster.com/static/images/movie.none.tmb.gif</poster>
+  
+    <poster size="profile">http://static6.flixster.com/static/images/movie.none.pro.gif</poster>
+  
+    <poster size="detailed">http://static6.flixster.com/static/images/movie.none.det.gif</poster>
+  
+    <poster size="original">http://static6.flixster.com/static/images/movie.none.det.gif</poster>
+  </posters>
+  
+  <cast>
+    <directors>
+      <director id="162655028" url="http://www.flixster.com/actor/mark-dindal">Mark Dindal</director>
+    </directors>
+    <actors></actors>
+  </cast>
+
+  <theaterReleaseDates>
+    <theaterReleaseDate country="us">2013-11-08</theaterReleaseDate>
+  </theaterReleaseDates>
+  
+  <dvdReleaseDates>
+    
+  </dvdReleaseDates>
+  
+  <criticSummary url="http://www.rottentomatoes.com/m/me_and_my_shadow#contentReviews">
+    <score count="0">-1</score>
+      <freshness certified="false" rotten="false">false</freshness>
+      <consensus><![CDATA[]]></consensus>  
+  </criticSummary>
+    
+  <fanSummary url="http://www.flixster.com/movie/me-and-my-shadow/reviews">
+    <score count="1" preRelease="true">100</score>
+  </fanSummary>
+
+</movie>
+
+  
+<movie id="771235150">
+  <title>Turbo</title>
+  <rating>Unrated</rating>
+  <releaseYear>2013</releaseYear>
+  <urls>
+    <url type="rottentomatoes">http://www.rottentomatoes.com/m/turbo_2013</url>
+    <url type="flixster">http://www.flixster.com/movie/turbo-2013</url>
+  </urls>
+  
+  <alternateIds>
+    
+    
+    
+    
+    
+    
+  </alternateIds>
+  
+  <posters>
+    <poster size="thumbnail">http://static6.flixster.com/static/images/movie.none.tmb.gif</poster>
+  
+    <poster size="profile">http://static6.flixster.com/static/images/movie.none.pro.gif</poster>
+  
+    <poster size="detailed">http://static6.flixster.com/static/images/movie.none.det.gif</poster>
+  
+    <poster size="original">http://static6.flixster.com/static/images/movie.none.det.gif</poster>
+  </posters>
+  
+  <cast>
+    <directors>
+      <director id="770866439" url="http://www.flixster.com/actor/david-soren">David Soren</director>
+    </directors>
+    <actors></actors>
+  </cast>
+
+  <theaterReleaseDates>
+    <theaterReleaseDate country="us">2013-06-07</theaterReleaseDate>
+  </theaterReleaseDates>
+  
+  <dvdReleaseDates>
+    
+  </dvdReleaseDates>
+  
+  <criticSummary url="http://www.rottentomatoes.com/m/turbo_2013#contentReviews">
+    <score count="0">-1</score>
+      <freshness certified="false" rotten="false">false</freshness>
+      <consensus><![CDATA[]]></consensus>  
+  </criticSummary>
+    
+  <fanSummary url="http://www.flixster.com/movie/turbo-2013/reviews">
+    <score count="0" preRelease="true">0</score>
+  </fanSummary>
+
+</movie>
+
+  
+<movie id="771208934">
+  <title>The Dark Tower</title>
+  <rating>Unrated</rating>
+  <releaseYear>2013</releaseYear>
+  <urls>
+    <url type="rottentomatoes">http://www.rottentomatoes.com/m/the_dark_tower_2012</url>
+    <url type="flixster">http://www.flixster.com/movie/the-dark-tower-2012</url>
+  </urls>
+  
+  <alternateIds>
+    <id type="amg">V   525114</id>
+    <id type="imdb">1648190</id>
+    
+    
+    <id type="cinemasource">105934</id>
+    
+  </alternateIds>
+  
+  <posters>
+    <poster size="thumbnail">http://static6.flixster.com/static/images/movie.none.tmb.gif</poster>
+  
+    <poster size="profile">http://static6.flixster.com/static/images/movie.none.pro.gif</poster>
+  
+    <poster size="detailed">http://static6.flixster.com/static/images/movie.none.det.gif</poster>
+  
+    <poster size="original">http://static6.flixster.com/static/images/movie.none.det.gif</poster>
+  </posters>
+  
+  <cast>
+    <directors>
+      <director id="162652579" url="http://www.flixster.com/actor/ron-howard">Ron Howard</director>
+    </directors>
+    <actors></actors>
+  </cast>
+
+  <theaterReleaseDates>
+    <theaterReleaseDate country="us">2013-05-17</theaterReleaseDate>
+  </theaterReleaseDates>
+  
+  <dvdReleaseDates>
+    
+  </dvdReleaseDates>
+  
+  <criticSummary url="http://www.rottentomatoes.com/m/the_dark_tower_2012#contentReviews">
+    <score count="0">-1</score>
+      <freshness certified="false" rotten="false">false</freshness>
+      <consensus><![CDATA[]]></consensus>  
+  </criticSummary>
+    
+  <fanSummary url="http://www.flixster.com/movie/the-dark-tower-2012/reviews">
+    <score count="4" preRelease="true">95</score>
+  </fanSummary>
+
+</movie>
+</movies>
